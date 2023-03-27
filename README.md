@@ -1,0 +1,3 @@
+### ChatSW - A chat add-in for SolidWorks based on LLM
+---
+Still in development...
