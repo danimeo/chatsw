@@ -1,0 +1,77 @@
+请帮我修复模型中的过定义问题,不好意思，暂不支持此功能。,[],generate
+请帮我把多个零件组装成一个完整的机械结构,很抱歉，我目前还没有这个功能。,[],generate
+请帮我修改模型中的某个特定部件，以适应新的要求,很遗憾，我目前无法满足您的要求。,[],generate
+请帮我添加一些特定的特征，如倒角、圆角等,抱歉，我的团队还在努力开发这个功能。,[],generate
+请帮我进行一些特定的加工操作，如铣削、车削等,很抱歉，我暂时无法提供您所需要的功能。,[],generate
+请帮我解决拉伸或放样操作中的问题,抱歉，我的团队还在开发这个功能并没有完成。,[],generate
+请帮我删除一些不必要的特征或部件,不好意思，删除特征或部件这件事我还做不到。,[],generate
+请帮我重新定义或更改零件的尺寸,对不起，我还定义不了尺寸，我将努力争取尽快支持它。,[],generate
+请帮我添加或调整某个零件的材料属性,对不起，我还没有实现这个功能，我将努力争取尽快支持它。,[],generate
+请帮我进行模拟和分析，以确定模型的结构强度和稳定性,不好意思，暂不支持此功能。,[],generate
+请帮我进行模型的渲染和展示，以便于展示和沟通,不好意思，暂不支持此功能。,[],generate
+请帮我优化模型的设计，以满足特定的功能和性能要求,对不起，我还没有实现这个功能，我将努力争取尽快支持它。,[],generate
+请帮我添加一些动画效果，以模拟模型的实际运动,抱歉啊，我还不会设计这个。,[],generate
+请帮我进行模型的拆解，以方便制造和维护,非常抱歉，我还没有这个功能。,[],generate
+请帮我对模型进行分组和命名，以方便管理和操作,很抱歉，这个功能还在开发中。,[],generate
+请帮我进行模型的镜像或旋转，以便于对称性的设计,抱歉，我还没能满足您的请求。,[],generate
+请帮我进行模型的缩放和变形，以适应不同的尺寸和比例,对不起，这个功能还未完成。,[],generate
+请帮我在模型中添加一些装配约束，以保证装配的正确性,抱歉啊，我还不会设计这个。,[],generate
+请帮我进行模型的导出和导入，以便于与其他软件的交互,非常抱歉，我还没有这个功能。,[],generate
+请帮我在模型中添加一些注释和标记，以方便理解和交流,很抱歉，这个功能还在开发中。,[],generate
+帮我设计一个三维模型的机械零件，材料为铝合金,抱歉，我还没能满足您的请求。,[],generate
+设计一个可以自动升降的工作台，高度调节范围在20厘米到80厘米之间,对不起，这个功能还未完成。,[],generate
+帮我设计一个可以自动打开和关闭的门，门的尺寸为1.5米*2米,抱歉，我的团队还在努力开发这个功能。,[],generate
+请帮我设计一个用于储存物品的盒子，尺寸为20厘米15厘米10厘米,抱歉，我的团队还在努力开发这个功能。,[],generate
+请设计一个可以旋转的齿轮，齿数为30,抱歉，我还不会设计齿轮。,[],generate
+设计一个螺旋形的弹簧，长度为10厘米，直径为2毫米,抱歉，我目前还不会设计弹簧之类的东西。,[],generate
+设计一个可调节角度的支架，用于固定一个器械,抱歉，我还设计不了这个。,[],generate
+帮我设计一个可以进行冲压加工的零件,抱歉，我还不会设计冲压零件。,[],generate
+设计一个可以旋转的机械臂，长度为1米,抱歉，我的团队还在努力开发这个功能。,[],generate
+请帮我设计一个可以自动跟随光线移动的太阳能板,抱歉，我还不会设计太阳能板。,[],generate
+帮我设计一个具有水平移动和旋转功能的照相架,抱歉，我还不会设计相机支架。,[],generate
+请帮我设计一个具有可变形状的管道，用于输送液体或气体,抱歉，我目前还不会设计管道。,[],generate
+帮我设计一个可以承受100千克重量的金属架子,抱歉，我的团队还在努力开发这个功能。,[],generate
+设计一个可以自动调节高度的凳子,抱歉，我的团队还在努力开发这个功能。,[],generate
+帮我设计一个可以用于演示的三维拼图,抱歉，我的团队还在努力开发这个功能。,[],generate
+请帮我设计一个可以自动折叠的支架,抱歉，我的团队还在努力开发这个功能。,[],generate
+设计一个可以调节长度的弹簧,抱歉，我的团队还在努力开发这个功能。,[],generate
+请帮我设计一个可以进行吸附作业的机械臂,抱歉，我的团队还在努力开发这个功能。,[],generate
+请帮我设计一个可以旋转360度的电视支架,抱歉，我的团队还在努力开发这个功能。,[],generate
+请帮我设计一个可以调节角度和高度的计算机屏幕支架,抱歉，我的团队还在努力开发这个功能。,[],generate
+创建一个新的草图,"好的，为您创建了新的草图。```import win32com.client;from pythoncom import Nothing;swApp = win32com.client.Dispatch(""SldWorks.Application"");swApp.Visible = True;Part = swApp.ActiveDoc;Part.SketchManager.InsertSketch(True);```",[],generate
+编辑这个零件,"好的```import win32com.client;from pythoncom import Nothing;swApp = win32com.client.Dispatch(""SldWorks.Application"");swApp.Visible = True;Part = swApp.ActiveDoc;Part.EditSketch();```",[],generate
+帮我画一个机械臂。,很抱歉，我目前还不会画机械臂。,[],generate
+设计一个可行的构想，用于制造一辆汽车。,对不起，我还没有造车的能力。,[],generate
+给我画一个工作台，包括抽屉和储物柜,不好意思，我还不会设计工作台。,[],generate
+帮我设计一对啮合的齿轮，模数为1，齿数比为20:1。,目前我还不会画齿轮。,[],generate
+帮我把我的设计转化为可打印的3D模型,不好意思哈，我还不能满足这个需求。,[],generate
+给我设计一个可以使用的滑动槽,抱歉，我的团队尚未开发出这个功能，所以我不会设计这个。,[],generate
+制作一个可用于灯具的内部架构,很抱歉，我还无法满足这个需求。,[],generate
+帮我设计一款3D打印机的框架,抱歉啊，我还不会设计这个。,[],generate
+设计一个旋转式绳索绞盘,非常抱歉，我还没有这个功能。,[],generate
+帮我设计一个可移动的轻质平台，用于搭建小型舞台,很抱歉，这个功能还在开发中。,[],generate
+帮我设计一个适用于宠物喂食的自动喂食器,抱歉，我还没能满足您的请求。,[],generate
+制作一个用于调整电子设备角度的支架,对不起，这个功能还未完成。,[],generate
+给我设计一个可以组合的机器人手臂,这个功能还在计划中。,[],generate
+帮我制作一个台式机支架。,对不起，我暂时做不了这个。,[],generate
+设计一个切割木材的小型手动切割机。,很抱歉，我还没能解决这个问题。,[],generate
+帮我设计一个适用于手工艺品制作的便携式工作台,目前我还无法提供这项服务。,[],generate
+制作一个可以装载电视和储存媒体设备的娱乐中心,这个功能还在测试中，还需要一些时间才能上线。,[],generate
+帮我设计一个适用于室内植物栽培的生长盆。,抱歉，我的团队正在努力开发这个功能。,[],generate
+设计一个用于搬运货物的手推车,对不起，我还不支持这个功能。,[],generate
+帮我设计一个用于桌上游戏的棋盘和棋子。,很遗憾，我还没有准备好这个功能。,[],generate
+制作一个用于存储和组织工具的工具箱。,抱歉，我无法满足您的需求，请您谅解。,[],generate
+帮我设计一个可以调整高度和角度的电脑显示器支架。,很抱歉，我还没有实现这个功能，不过我们正在努力开发。,[],generate
+设计一个用于组装模型的小型工具,目前我还不支持这个功能，不过我们会尽快提供。,[],generate
+帮我制作一个小型的便携式音箱,抱歉，我无法在短时间内提供这个功能。,[],generate
+制作一个可以在室内外使用的座椅。,很抱歉，我还达不到您的要求。,[],generate
+帮我设计一个适用于钓鱼的鱼竿支架,对不起，我还没有做好这个功能。,[],generate
+设计一个可以自动播种植物的种植器,非常抱歉，我无法满足您的需求。,[],generate
+帮我制作一个适用于婴儿使用的玩具。,这个功能还在规划中。,[],generate
+制作一个可以储存和运输食品的保鲜盒。,抱歉，我还不支持这个功能。,[],generate
+帮我设计一个可以调整高度和角度的笔记本电脑支架。,很抱歉，这个功能还在开发中，暂时无法提供。,[],generate
+进入草图编辑模式,"好的，已为你切换进入草图编辑模式。```import win32com.client;from pythoncom import Nothing;swApp = win32com.client.Dispatch(""SldWorks.Application"");swApp.Visible = True;Part = swApp.ActiveDoc;Part.EditSketch();```",[],generate
+设计一个适用于音乐工作室的声音隔离盒,很抱歉，这个功能还在开发中，暂时无法提供。,[],generate
+编辑草图,"好的```import win32com.client;from pythoncom import Nothing;swApp = win32com.client.Dispatch(""SldWorks.Application"");swApp.Visible = True;Part = swApp.ActiveDoc;Part.EditSketch();```",[],generate
+帮我画一个圆吧,"好，我为你画了一个圆。```import win32com.client;from pythoncom import Nothing;swApp = win32com.client.Dispatch(""SldWorks.Application"");swApp.Visible = True;Part = swApp.ActiveDoc;Part.EditSketch();skSegment = Part.SketchManager.CreateCircle(0, 0, 0, 0.033659, -0.022663, 0)```",[],generate
+画圆,"好的，帮你画了一个圆。```import win32com.client;from pythoncom import Nothing;swApp = win32com.client.Dispatch(""SldWorks.Application"");swApp.Visible = True;Part = swApp.ActiveDoc;Part.EditSketch();skSegment = Part.SketchManager.CreateCircle(0, 0, 0, 0.033659, -0.022663, 0)```",[],generate
